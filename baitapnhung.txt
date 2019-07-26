@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bài t?p nhúng</title>
+</head>
+<body>
+    <script type="text/javascript">
+        function messaga() {
+            prompt("vui lòng nh?p h? tên:");
+            document.write("chào m?ng b?n d?n v?i codegym!")
+
+        }
+    </script>
+    <h1 align="center" style="color: blue">BÀI T?P TH?C HÀNH JAVASCRIP Ð?U TIÊN!</h1>
+    <button type="button" onclick="messaga()">Click vào dây</button>
+</body>
+</html>
